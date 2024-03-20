@@ -1,0 +1,28 @@
+.nav {
+  background-color: #d2d2d7;
+  padding-left: 15px;
+}
+
+.jumbo {
+  width: 100vw;
+  height: 70vh;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.carousel {
+  width: 600px;
+  height: 800px;
+}
+
+.carousel h5,
+.carousel p {
+  color: white;
+}
+
+.pref {
+  width: 850px;
+  height: 450px;
+}
